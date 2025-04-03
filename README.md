@@ -1,0 +1,1 @@
+A comprehensive collection of machine learning projects demonstrating applications in classification, regression, and clustering across domains like finance, energy, and marketing. Each project includes detailed code and analyses, offering insights into practical implementations of algorithms such as Decision Trees, Apriori, and more
